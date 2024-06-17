@@ -14,7 +14,13 @@ Are your files unorganized in a folder? Have you put different types of files in
 #### Initialize a new Node.js project:
    ```bash
    npm init -y
+   ```
 
 #### Install express:
    ```bash
    npm i express@4
+   ```
+
+Run the following command:
+   ```bash
+   nodemon main.js
