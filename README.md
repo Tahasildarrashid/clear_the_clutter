@@ -24,3 +24,9 @@ Are your files unorganized in a folder? Have you put different types of files in
 Run the following command:
    ```bash
    nodemon main.js
+   ```
+#### Note: if you do not have nodemon then run,
+   ```bash
+   npm i nodemon
+   ```
+
